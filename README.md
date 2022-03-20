@@ -37,14 +37,13 @@ Esto es un texto ~~tachado~~
 
 <!-- Enlaces -->
 [jhoncamargo.com](http://jhoncamargo.000webhostapp.com "Web Jhon Camargo")
+
+<!-- Citar -->
 >Esta es una cita
 
-
 <!-- Lineas o hr -->
---- 
-
+---
 Lineas
-
 ___
 
 <!-- Imprimir lineas de codigo -->
